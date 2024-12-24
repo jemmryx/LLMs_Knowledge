@@ -1,6 +1,6 @@
 # LoRA 系列篇
 
-- 一、LoRA篇
+- 一、LoRA篇（图解https://www.53ai.com/news/finetuning/2024101307549.html）
     - 1.1 什么是 LoRA？
         
         <aside>
