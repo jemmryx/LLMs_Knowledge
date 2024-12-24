@@ -1,6 +1,15 @@
 # LoRA 系列篇
+好文：图解https://www.53ai.com/news/finetuning/2024101307549.html
 
-- 一、LoRA篇（图解https://www.53ai.com/news/finetuning/2024101307549.html）
+lora：<img width="968" alt="image" src="https://github.com/user-attachments/assets/55012f7b-9e3b-4a9e-8c24-c0c75e76a5ad" />
+lora-fa：<img width="1152" alt="image" src="https://github.com/user-attachments/assets/e75d7e86-cd2d-4d92-b2a9-95216b6bda2f" />
+vera：<img width="869" alt="image" src="https://github.com/user-attachments/assets/1035ac44-5db6-4f87-8803-d2b5848ac77b" />
+delta-lora：<img width="974" alt="image" src="https://github.com/user-attachments/assets/5d1f5ab7-274b-443e-ab2b-b1b82a5100c2" />
+lora+：<img width="883" alt="image" src="https://github.com/user-attachments/assets/424a5a88-711d-4a03-9a98-76d870b3b443" />
+lora-drop：<img width="1256" alt="image" src="https://github.com/user-attachments/assets/112f33f9-4288-4ed9-acea-1c6becfe5e1d" />
+
+
+- 一、LoRA篇
     - 1.1 什么是 LoRA？
         
         <aside>
